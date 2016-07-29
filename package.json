@@ -1,0 +1,15 @@
+{
+    "name": "maria.awesome-theme",
+    "title": "Awesome Theme",
+    "description": "This theme is so shiny that you'll need to wear shades!",
+    "homepage": "https://github.com/mariaburke/brackets-theme",
+    "version": "1.0.0",
+    "author": "Maria <mariaburke91@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": false,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
